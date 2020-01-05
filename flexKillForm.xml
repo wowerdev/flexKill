@@ -1,0 +1,10 @@
+<Ui xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xsi:schemaLocation="http://www.blizzard.com/wow/ui/" xmlns="http://www.blizzard.com/wow/ui/">
+	<Script file="./flexKill.lua" />
+	<Frame name="flexKillForm">
+		<Scripts>
+			<OnLoad>
+				init();
+			</OnLoad>
+		</Scripts>
+	</Frame>
+</Ui>

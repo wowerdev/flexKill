@@ -1,0 +1,9 @@
+## Interface: 33500
+## Title: flexKill
+## Author: wowerdev
+## Version: 1.0
+## Notes: Выводит в чат ваши убийства
+## DefaultState: Enabled
+## LoadOnDemand: 0
+flexKill.lua
+flexKillForm.xml
