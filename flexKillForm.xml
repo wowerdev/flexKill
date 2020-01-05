@@ -3,7 +3,7 @@
 	<Frame name="flexKillForm">
 		<Scripts>
 			<OnLoad>
-				init();
+				flexInit();
 			</OnLoad>
 		</Scripts>
 	</Frame>
