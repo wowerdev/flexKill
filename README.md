@@ -1,6 +1,6 @@
 # flexKill - аддон для вывода килов в чат
 
-Аддон для World of Warcraft 3.3.5
+Аддон для World of Warcraft 3.3.5a
 
 ## Описание
 
